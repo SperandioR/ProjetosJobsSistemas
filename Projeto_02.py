@@ -1,4 +1,4 @@
-num = int(input("Digite um número para verificar se este pertence a  uma sequência do fibonacci: "))
+num = int(input("Digite um número para verificar se este pertence a uma sequência do fibonacci: "))
 a, b = 0, 1
 fibonacci = []
 
